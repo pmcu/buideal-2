@@ -11,27 +11,104 @@ Fuarthas cead sa deireadh an cuntas seo a scríobh a fhad is
 atáthar ag fanacht le bád an dara breitheamh.  Níl ar an
 oileán seo ach an dá dhream: cimí agus coimheádaithe.  Is
 cuairteoir an dara breitheamh, an tráth a dtiocfaidh sé a
-shocrú mo chinniúna.
- 
+shocrú chinniúint chime 16. Agus tiocfaidh sé go cinnte á
+dhéanamh sin an t-ádh a bheith leis. 
+
+Má bhíonn an t—ádh leis an dara breitheamh seo, tiocfaidh sé
+i dtír ar an taobh theas den 'oileán, san áit a n—osclaíonn
+an abhainn a bhéal a dh'ol móruiscí an locha. Tchífidh sé
+ansin os a chomhair, mar chúirtíní siopa, bogluachair na
+mban sí, á n-oscailt roimhe; tchífidh sé imirt ealaíne i
+ndathanna uaine agus airgid as obair uilig na gcrannn beithe
+agus coill; tchífidh sé i measc cabhlacha caola agus
+scáileanna luascacha crann, mórscáil ramhar an túir léith,
+agus í greamaithe den talamh agus den bhruach; agus ach lá
+socair a bheith leis, beidh an inbhear beag ina ghloine
+faoi, scáthán ina bhfeicfidh sé an obair aeir is spéire seo
+ar fad fána shúil: obair sholasmhar aer agus fhásra an
+oileáin, agus obair agus aghaidh dhorcha an túir. Tchífidh
+sé a bhfuil ann de sin, leoga, ach an t-ádh a bheith leis.
+Agus tchífidh sé an scríbhinn seo, 'le cuidiú Dé', mar a
+déarfaidh mo mháthair. 
+
+Is gá an t-ádh a bheith leis. Níorbh amhlaidh don chéad
+bhreitheamh a thug faoin turas. Tharraing an namhaid as bolg
+a bháid é, sularbh fhéidir léi a iompar a fhad le ceann na
+habhanna móire a ritheann fríd an fhoraois — í sin a seasann
+a cuid crann ina slua ollmhór a chlúdaíonn an chuid is mó
+den talamh ar bhruach theas an locha.
+
 #breitheamh ag teacht
 #cead scríobh
 #\? dathanna a chur ann gan an plota a scrios
 #cloch-ceangail: cime, coimheádaí, oileán, breith.
 
-P2.
+Maidir leis an chéad bhreitheamh, 'an fear a fuarthas', ba
+ghearr a mhair a dhlínse. Punt breac ar ar bith dá chuid
+páighe níor ól sé riamh. Níor chuir sé a oiliúint fhada
+fhóisteanach, i dtairbhe an chine i mbéal a saortha ón
+namhaid ach ar dhornán bheag de ócáidí, faraor. Agus bá é a
+fuair sin, scoith na hoiliúna do cheird an bhreithimh.
+
+Níorbh i gnáthoiliúint an bhreithimh a fuair sé, áfach, ach
+oiliúint ab fhearr ná í, an oiliúint atá ar fáil fán chuntar
+donn darach tábhairne, áit ar chuir sé eolas ramhar ar iota
+tarta an duine agus a mbaineann léi. Bheadh deireadh an
+eolais sin i mbuidéil a chinn aige le fada. Nach maith is
+eol domh féin a mhianach mar shaoi nádúir dhaonna, mise a
+bhí i mo ghiolla buidéal aige tráth, an chéad phost páighe
+riamh agam. A chorp bog agus a ghéaga gan neart, níorbh
+fhada a mhair siad, déarfainn, i ndiaidh do na Snagairí(an
+namhaid mar dhream) agus a mbior rósta a bheith réidh leis.
+Ó tharla nár bheo dó, níl toirmeasc orm a lua as a ainm,
+Gioncas Thábhairne an Droichid.
+
 Moladh domh gur cheart guí níos mó foighne agus trócaire a
 bheith ag an bhreitheamh úr ná a bhí ag an fhear roimhe.  Ar
 a bhealach a dh'éisteacht mo cháis, a bhí sé, nuair a fuair
 an namhaid greim air, agus a bhád á iomramh go ciúin fríd an
-choillidh mhór - ní ceadmhach a ainm a lua. 
+choillidh mhór - ní ceadmhach a h-ainm a lua. Bhíothas ar
+eolas an namhaid a bheith i ndiaidh sleamhnú isteach san
+choillidh fá mhí ó shin, ach deirtear nach raibh barúil
+bheacht ann i dtaca lena líon nó ó thaobh ionad a gcuid
+campaí. Ar ndóighe, níorbh ann dóibh choíche sa choillidh
+amhlaidh ach amháin an cuidiú a fuarthas ón dream dá bpór a
+fágadh againn sna céadta a d'imigh le súil go gcuirfí
+'múineadh' orainn de bharr a ndea-mhianaigh, is a
+gcuideachta eisampléirí. Bíodh sin uilig mar atá, bhí
+naimhde ann le breith ar Ghioncas Theach an Droichid, agus
+b'fhearr mo dhóchas as a chluasa sin ná ionadaí ar bith dá
+gcuirfí ina chuid róbaí, nó as caint le pearsa ar bith
+osnádúrtha. Sin dóchas anois, nach bhfaighidh a phróbhadh
+choíche, de bharr go bhfuair na snagairí greim ar Ghioncas
+chóir, agus a gcuid madadh a chuid feola is cnámh mar bhéile
+duaise. Amhrán amaideach a bhí á cheol sa bhád ba chiontach
+le teacht an namhad ar an mhuintir a bhí mar lasta ann, is
+cosúil, amhrán faoi shaol an locha fadó.
 
-# an chéad bhreitheamh # agus a bhás # a stair:
-tábhairneoir|saoiste Phúdair lá # \? sliocht bheag: mar a
-fuair mé an scéal # cloch-ceangail:coillidh,breith.,namhaid 
+Ní naimhde ach 'cairde' a fuair greim ormsa, agus nach
+saoifiúil gur i dTábhairne an Droichid a ceanglaíodh mé an
+oíche sin. Bhí sé socair againn, agam féin agus an Rúballach
+go gcasfaí ar a chéile ansin muid, i ndiaidh domh pilleadh as
+talamh na Snagairí. Ní raibh baint agam le ball ar bith eile
+de chuid Chuallacht Bricreann agus mé thall ar an choigríoch
+mhór; agus ní bhfuair mo chluas cogar ar bith go fóill gur
+rún de chuid na 'gcarad' cime a dhéanamh de gach ball den
+chuallacht, de bharr a gcuireadh inár leith. Ní dhearnadh
+cime de aon duine acu ach díom féin go dtí seo. Fuarthas an
+Rúballach oíche amháin ach ba ghearr gur éalaigh sé ó lucht
+a cheangail. Maidir lena bhfuil curtha inár leith níl an
+t-eolas sin uilig agam go fóill, ach níl amhras ná go
+mbaineann an rún agus an smaointeoireacht a chothaigh é, le
+scéal an bhuidéil atá ar iarraidh. Mo mhallacht ar an
+bhuidéal chéanna agus ar Ghioncas a chéadinis domh a scéal.
 
-P3.
-Trí rud. 
+Ach seo, tá mé ag teacht chun tosaigh orm féin. Níor chuidiú
+domh truisleadh a bhaint asam féin chomh luath seo sa scéal
+seo atá mar bheart ann nach ndéanfaí mo dhaoradh agus mo
+bhású. Is mithid domh pilleadh ar an oileán.
 
+Trí Rud. 
 Tá trí rud arda ar an oileán locha seo. Chuirfí i
 in iúl uaim as an chaint sin, trí rud a mbeadh tionchar ar
 leith uathu de bharr a n-airde. De cheann acu sin a bhí mise

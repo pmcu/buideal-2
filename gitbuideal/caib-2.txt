@@ -27,6 +27,15 @@ chaitheamh i gceantar ghallda mar dheoraí; ach dianmhachnamh
 ar mo leas féin agus ar leas ár gclainne a thug air mo
 sheoladh as baile le Bearnaí Bhearnaí, tiománaí, faoi choim
 na hoíche i dtús an earraigh sa bhliain sin. Bob dár bhuail
+branches
+buideal-2
+config
+description
+HEAD
+hooks
+info
+objects
+refs
 mé ar síothmhaor ghallda, ba chúis leis an mhachnamh agus a
 thoradh. Mé féin an t-aon mhac de chuid Chuallacht
 Bhricreann ab éigean imeacht as baile; ach ba chomharsa béal
@@ -80,13 +89,3 @@ a tugadh ar ais chuig a fhód dúchais i ndiaidh gur aistríodh
 an síothmhaor thuaslauaite go ceantar eile a bhuíochas le
 dea-obair Chuallacht Bhricreann.
 
-marc  
-Sun Dec  2 18:45:42 GMT 2018
-
-
-
-
-
-
-
---------------------------------------------------
