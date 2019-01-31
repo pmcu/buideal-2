@@ -15,7 +15,7 @@ atáthar ag fanacht le bád an dara breitheamh.  Níl ar an
 oileán seo ach an dá dhream: cimí agus coimheádaithe.  Is
 cuairteoir an dara breitheamh, an tráth a dtiocfaidh sé a
 shocrú mo chinniúna.
- 
+
 #breitheamh ag teacht
 #cead scríobh
 #\? dathanna a chur ann gan an plota a scrios
@@ -26,20 +26,20 @@ Moladh domh gur cheart guí níos mó foighne agus trócaire a
 bheith ag an bhreitheamh úr ná a bhí ag an fhear roimhe.  Ar
 a bhealach a dh'éisteacht mo cháis, a bhí sé, nuair a fuair
 an namhaid greim air, agus a bhád á iomramh go ciúin fríd an
-choillidh mhór - ní ceadmhach a ainm a lua. 
+choillidh mhór - ní ceadmhach a ainm a lua.
 
 # an chéad bhreitheamh # agus a bhás # a stair:
 tábhairneoir|saoiste Phúdair lá # \? sliocht bheag: mar a
-fuair mé an scéal # cloch-ceangail:coillidh,breith.,namhaid 
+fuair mé an scéal # cloch-ceangail:coillidh,breith.,namhaid
 
 P3.
-Trí rud. 
+Trí rud.
 
 Tá trí rud arda ar an oileán locha seo. Chuirfí i
 in iúl uaim as an chaint sin, trí rud a mbeadh tionchar ar
 leith uathu de bharr a n-airde. De cheann acu sin a bhí mise
 ceangailte an t-am a dtáinig scéala an chéad bhreithimh a fhad
-liom. 
+liom.
 
 Coimheádaí a Trí an gléas iompair a bhí aige mar scéala
 agus iompraíonn Coimheádaí a hAon an béal a d'ordaigh mo
@@ -77,9 +77,9 @@ de phictiúr a thuillfeadh fonn féachana, bíodh siad ina
 shuí, ina luí, nó ina rith theasaí.
 
 ‘An dea-scéal nó an droch-scéal? a Chime 16,’ arsa an liobar
-trom biorach, sula raibh a cheart d'anáil ar an taobh thiar de. 
+trom biorach, sula raibh a cheart d'anáil ar an taobh thiar de.
 
-‘Bheadh idir charachtair agus scéalta de dhíth orm mar 
+‘Bheadh idir charachtair agus scéalta de dhíth orm mar
 chúlra roimh an rogha sin a dhéanamh go hionraic duit,’ arsa
 mise leis an aghaidh mhór dhonn a bhí i bhfad ró-chóngarach
 do mo chuid fiacal, agus bhí ábhar dinnéara sa ghaosán féin.
@@ -90,8 +90,8 @@ bhéarfaidh mé duit iad mar sin féin.'
 Thug sé a thóin mná tamall uaim gur leag ar stumpa crainn í,
 crann dár leag na snagairí na cianta ó shin.
 
-‘Tá mé ag amharc ar na duilleoga móra bosacha de chluas sin 
-ort, a Chime 16, agus tú ceangailte de do chrann, agus 
+‘Tá mé ag amharc ar na duilleoga móra bosacha de chluas sin
+ort, a Chime 16, agus tú ceangailte de do chrann, agus
 cuireann siad an cheist i mo cheann arís, cé acu a ba fhearr
 leo ar tús, an dea-scéal nó an droch-scéal? Mo choinsias, is
 fearr a d'fhóirfeadh siad do fhásra íseal an gharriadh ná
@@ -99,7 +99,7 @@ don chrann mhór sin, a thréig a mhuintir coilleadh.’
 
 Siúd de léim dá stumpa é, gur bhain tarraingt gan trócaire
 as duilleog acu, rud nár mhéadaigh a sheans freagra a mhealladh
-uaim. Siar leis faoi luas i ndiaidh a thóna ansin. 
+uaim. Siar leis faoi luas i ndiaidh a thóna ansin.
 
 Shuigh sé ar ais agus d'fholaigh glún dá chuid go
 teann seascair in ioscaid. Thit an giall mar a thitfeadh
@@ -147,7 +147,7 @@ D'amharc mé ar choirt mo chrainn.
 
 ‘Sin í an áit a dtig linn a fhad leis an droch-scéal. Bheadh sé
 leat i gceann cúpla uair an chloig, mar bhí a bhád i ndiaidh
-an chuid ba mhó de abhainn na foraoise a chur de …’ 
+an chuid ba mhó de abhainn na foraoise a chur de …’
 
 Thost sé go ceann soicinde.
 
@@ -212,7 +212,7 @@ an clapsholas nach raibh tóin mná Choimheádaí 3 i bhfad ag dul i
 bhfolach uaim ann, de chosa beaga in airde agus iad ar lánluas
 i gceann a gcuid greadta ar an chosán gheal chlochaoil ar a
 mbealach chuig an Túr Liath, áit a raibh coinne ag a
-mháistir, Coimheádaí 1 leis. 
+mháistir, Coimheádaí 1 leis.
 
 Is dócha go mbeifear le tuigbheáil as an chaint sin, gur túr
 é an dara rud ard de chuid an oileáin. Ba intuigthe mar a
