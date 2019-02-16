@@ -1,1 +1,10 @@
+achoimre-1.txt
+buidéal-2018-eis.txt
+buideal.msk
+caib-1.txt
+caib-2.txt
+liosta.txt
+nod.txt
 nóta-2018-eis.txt
+plota-1.txt
+plota-2.txt
