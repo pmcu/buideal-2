@@ -1,0 +1,100 @@
+### Sruth : líne na n-imeachtaí sa sceal
+### c : caibidil ### am : am na heachtra - fíoram ### l : líne
+### par: paragraf
+
+<c 1> Súil le Breitheamh
+
+<am 1> Oíche 1  ## le druidim le </am 1>
+
+<par 1>
+<l >CEAD sa deireadh             </l> // cuntas - cúis le scríobh
+<l >BREITHEAMH is BÁÐ le theacht </l> // coireanna - cad iad
+<l > Obair phinn - sa scéal —... </l> // téama - scríobh/caint - a dtoradh
+</par 1>
+<par 2>
+<l> SAOISTE - mórbhodach Inse   </l> // rí -- athair an oileáin
+<l> TORADH</>
+<l> PÉIST - mé a thabhairt di   </l> // pionós - bású le péist - fantasaíocht?
+<l> Trumpa Maide</l>
+<par 3>
+<l> Saoiste - a phlean</l>
+<l> BUIDÉAL - a fháil </l> // Téama: Cumhacht ceilte
+<l> An Rúballach</l> // smacht - Téama
+<l> Cullacht Bhricreann.</l>
+<l> CAIRDE is NAIMHDE</l>
+<par 4>
+<l>Caint le Léitheoir</l>
+<l>Míniú: baol i scríbhinn</l>
+<l>An Rúballach - daingneadh</l>
+<l>Péist - Trumpa</l>
+<par 4>
+<par 5>
+<l>Duan: míniú ar fionraí: cuntas</l>
+<l>Bothán: solas - coinneall srl</l>
+<l>Trumpa: a chuid ceoil</l>
+<l>Tost don scríobh</l>
+<l>Obair lae: clocha sa linn</l>
+</par>
+---------------------------------------
+<par> // p1.
+Fuarthas cead sa deireadh an cuntas seo a scríobh a fhad is atáthar
+ag fanacht le bád an Bhreithimh. Is é an Breimheamh a shocrós mo
+chinniúint. Ach seo uilig a bheith scríofa agam agus léite ag mo
+bhreitheamh cóir, ar a laghad, beidh seans agam. Nár saoifiúil an
+toradh é, obair mo phinn maitheas a dhéanamh domh, in áit a mhalairt.
+</par>
+<par> // p2.
+Níl sé ceilte orm nó ar chime ar bith eile anseo cé acu toradh a ba
+mhó a thaitneodh lena ár Saoiste, an té a thug an cead uaidh.
+Ola ar a chroí mo thabhairt don phéist mar a rinneadh le Trumpa Maide.
+Ba bheag an mhoill a bhí ar an Phríomhbhodach Trumpa bocht a fháil
+leagtha ar Charraig na Péiste agus ba ghaiste a shaithfeadh sé mé
+féin sa bhád don turas ach eolas a bheith agam, dar leis, eolas a ba
+mhaith leis aige féin roimh an am nach mbeadh sé ag neach ar bith.
+</p>
+<p> //p3
+Is bodach den dream é, ár Saoiste, ar mór acu a ngradam a shocrú agus a
+láidriú, agus dá dtiocfadh leis de mo ainndeoin féin, tabhairt orm caint
+a chur uaim a chuideodh leis dhá mhír bheaga eolais a aimsiú. Ba deisede
+i bhfad a bhearad feasta, dar leis, an dá chleite eile a chuirfí air de
+bharr aimsiú an dá mhír sin. D'fhágfadh Mír a hAon cúrsaí sa dóigh go
+dtiocfadh an Buidéal a fháil; agus chinnteodh Mír a Dó go bhfaifí greim
+ar an Rúballach - an t-aon mhac de Chuallacht Bhricreann nach bhfuil a
+chuid imeachtaí faoi smacht ag Naimhde nó ag Cairde.
+</par>
+<par> // p3.
+Is duine de na Cairde é an Saoiste.(Stádas seort measctha a bheadh agamsa
+agus mé i mo chime ag na Cairde mar bheart smachta, dár leo féin, beart
+a rinneadh ar mhaithe leis an Chúis agus ar mhaith liom féin - ar ndóighe.)
+Is Cara fadcheannach cliste foidhdeach an Saoiste. Agus an dá mhír sin a luaigh
+mé, is maith is eol dó nach foláir fomhíreanna go leor a bheith i bhfollach
+iontu, agus iad ceilte, b'fhéidir, faoi chlár, faoi fhód, faoi shruth agus faoi
+thoinn, nó i measc crann nó tom.
+</p>
+<p> // p4.
+A léitheoir! agus a Bhreithimh! - más ann daoibh i mbróig - cluinim uaibh bhúr ngáirí ó
+scornach agus fríd liobar. Agus cluinim an chaint i gceann is cúis leis an phléascadh.
+‘Nach bómánta an mhaise dhuit, a Chime 16, agus an Saoiste cliste foighdeach seo a
+bhfuil tú faoina smacht, ábhar breactha go soiléir i ndúich ar phár a bhronnadh air,
+i bhfoirm do Chuntais, cuntas a léifeas sé agus a mbainfidh a cheann mór míofar cliste
+cleiteach tairbhe as, agus é sa tóir te ar an Bhuidéal agus ar an Rúballach - do fhíorchara gnímh
+dá raibh agat as Cuallacht Bhricreann, an t-aon mhac acu nach ndearnadh cime suarach faoi
+smacht as go fóill? An é is mian leat an dá bhua sin a bheith aige an Buidéal agus a
+mbaineann leis a bheith faoina láimh, agus an Rúballach cóir a bheith ina chime suarach
+lag ar oileán locha aige, mar is eadh tú féin? Agus cá bhfios nach deifre a chuirfeadh
+do chuid scríbhneoireachta ort, i dtreo Charraige na Péiste i dturas mar a rinne Trumpa
+Maide.‘  Caint agus ceist mhaith é sin, nach bhfuil a bhfreagra i bhfad uaibh.
+
+<p> // p5
+Ní thabharfaidh mé uaim é, anocht, áfach. Is beag de chéir na hoíche seo atá fágtha agam
+agus is mó di a bheadh de dhíth orm le solas a choinneáil sa bhothán de shlata saileoige
+seo, agus mé ag scríobh ann. Mo léan gur bothán uaigneach é in easnamh Thrumpa agus a
+chuid ceoil. An tost ann, is mór liom é, ó tugadh don Phéist Trumpa Maide, an té a
+d'fhéadfadh bolg na slat seo a líonadh le fuaimeanna binne a thógann cian. Ach, más ann
+anois go buan don chian agus don tost, ní namhaid ceachtar den bheirt b'fhéidir don
+scríobadh pinn agus dá ngluaiseann ar a chúl. Bíodh an tost ann, agus lámh, ceann, is
+cuimhní ina dtost ina chuideachta. Bíodh sin uilig amhlaidh go dtí an chéad oíche eile,
+agus go maire mo lámh a saothar crua cloch ar an linn amárach, go bhfága neart a scríofa
+inti san oíche amárach.
+</p>
+
