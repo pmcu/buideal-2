@@ -1,4 +1,4 @@
-Domh Beal 19 15:39:21 UTC 2019
+marc:23-06-2019
 
 ###Súil le Breitheamh thar uisce
 
@@ -7,13 +7,13 @@ Domh Beal 19 15:39:21 UTC 2019
 ###### Uimhir a hAon
 
 Fuarthas cead sa deireadh an cuntas seo a scríobh a fhad is
-atáthar ag fanacht le bád an Bhreithimh. Is é an Breimheamh a
+atáthar ag fanacht le bád an Bhreithimh. Is é an Breitheamh a
 shocrós mo chinniúint.  Ach an cuntas seo uilig a bheith scríofa
 agam mar is ceart in am, agus é a bheith léite is tuigthe aige,
 b'fhéidir go ligfeadh sé mo bheo liom. Sin rud nár ligeadh le
 cimí eile a bhí á gcoinneáil ar an oileán uaine locha seo, Trumpa
 Maide, ina measc,  mo iarchéile botháin: tugadh don phéist é, an
-teachtain seo a chuaigh thart.
+tseachtain seo a chuaigh thart.
 
 Ná síltear gurb é mo bheatha amháin is cás liom - ann féin. Ní
 hamhlaidh.  D'fhág mé rudaí gan déanamh a ba mhaith liom a fháil
@@ -241,7 +241,7 @@ ola ar chroí mo shíothmhaoir laghdú maith a theacht air.
 
 Lean iarsmaí eile.  Sular cuireadh tús le mo thréimhse
 deoraíochta, chuala Agaisín faoin bhob. Thaitin sé go mór
-leis. Bhí lámh nach beag ag an tsíothmhaor i bhfeallmharú a
+leis. Tharla lámh nach beag ag an tsíothmhaor i bhfeallmharú a
 athara. Bhí slán fágtha aige ag a chuid staidéir mar ábhar fir
 altóra. Bhí tús curtha aige le staidéar eile, agus ba mhó a shuim
 san fhilíocht. D'iarr sé orm theacht ar cuairt chuige ina theach.
@@ -254,7 +254,7 @@ Cuallacht Bhricreann. Bhí gach mac againn iontach tógtha.
 Cuireadh deireadh le mo chéad tréimhse deoraíochta, as siocair
 dea-obair Chuallacht Bhricreann. Ní raibh a fhios ach ag
 fíorbheagán gur mar sin a bhí ar ndóighe. Ba é Sud a mhínigh na
-cúrsaí domhsa, le linn mo chéad oíche ar ais, lena linn fosta,
+cúrsaí domhsa, le linn mo chéad oíche ar ais; lena linn fosta,
 chuir m'athair in iúl domh go bhfuair sé jab domh - mar ghiolla
 buidéal i dTeach Ósta an Droichid.
 
@@ -272,10 +272,10 @@ sé de fhlaithiúlacht iontu a ndlí, a gcaint, a gceirteach,
 agus a ngruaig a bhronnadh orainn; agus beifear ar an eolas
 chomh maith nár éirigh go hiomlán lena gcuid seifteanna.
 Seo i mo dhiaidh cúrsaí is eol do gach mhac agus iníon faoi
-ghruaig ar bith. Ach beidh fonn oraibh foghlaim faoin dóigh
+bhun gruaige ar bith. Ach beidh fonn oraibh foghlaim faoin dóigh
 ar tharla Sud mar lipéad ar chol ceathrar domhsa, agus faoin
 dóigh ar éirigh sé ina ghaiscíoch i measc mac Chuallacht
-Bhricreann.
+Bhricreann, in ainneoin a leath-phóir.
 
 Cá bith cad é an nádúr a fágadh sna cailíní de thógáil
 mháthair mo athara, tháinig de chinniúint ar an mhórchuid
@@ -285,9 +285,9 @@ léimneacha. Ba ar an ghruaig agus ar an chaint mhuilinn a
 leag m'athair an milleán.
 
 'Agus an ghruaig mar sin orthu agus caint na scuitseoirí
-chomh tréan líofa sin acu, ní hionadh ar bith é gur
-chríochnaigh siad ar na tochasóirí ar shocraigh siad orthu
-fá dheireadh, na créatúir.'
+chomh tréan sin acu, ní hionadh ar bith é gur chríochnaigh
+siad ar na tochasóirí ar shocraigh siad orthu fá dheireadh,
+na créatúir.'
 
 Maidir leis an ghruaig ní bhfuair mé riamh - agus ní
 bhfaighidh mé choíche anois - a bheachtú cé acu don dath
@@ -312,8 +312,8 @@ dóigheanna siúil, suí, iompair éadaigh, stíleanna labhartha,
 agus an craiceann agus an ghruaig a chaith tú, b'uafásach an
 lón a mbaintí astu agus as rudaí nach iad, le go ndéanfaí do
 cheartú agus do 'chur i do bhosca'. Sin nath coitianta dá
-gcuid, 'Cuirfidh mise ina bhosca é', agus chuirfeadh. Agus
-b'fhada ba leasc leat an clár a thógáil.
+gcuid, 'Cuirfidh mise ina bhosca é', agus chuirfeadh - agus
+chuir. Agus b'fhada ba leasc leat an clár a thógáil.
 
 Thar rud ar bith eile, ba bhaothdhána uait tuairim nó moladh
 ar bith a ligean uait i láthair mná ar bith acu. An focal
@@ -322,7 +322,7 @@ ar bith a ligean uait i láthair mná ar bith acu. An focal
 'Agus nach mór an cur amach a bheadh agatsa ar na cúrsaí
 sin, a Ghiolla na mbróg gáiriteach ...'
 
-'Éistimis leis an bhodach seo go bhfaightear ár leas, agus
+'Éistimis leis an bhodach seo go ndéanfar ár leas, agus
 an grágán gruaige gan chíoradh le coicís mar mhaise ar a
 cheann aige, ceann na céille móire -- dar leis féin.'
 
@@ -336,24 +336,26 @@ cinnte dá mbarúil nach raibh na mná seo i ndáiríribh agus a
 leithéid seo do chaint ag teacht uathu.
 
 'mo thrua a gciall' ar seisean, 'b'fhada go mbeadh dul
-amódha mar sin ar an té a tógadh faoi scáil an mhuilinn,
+amódha mar sin ar an té a tógadh faoi scáil an mhuilinn -
 b'fhada sin.'
 
 Bíodh sin uilig mar atá, ba as tionchar na cainte agus na
 gruaige údaí, a tháinig sé gur fágadh Sud ar an tsaol.
 Gruaig asail a bhí air féin. Nach minic mar bheart grinn a
-téadh m'athair a chuartú croise air.
+théadh m'athair a chuartú croise air.
 
-'Níl mé chomh naofa sin, a uncail,' a deireadh Sud bocht. Is
-féidir a fhuadach a fhágáil ormsa thar dhuine ar bith eile,
-agus admhaím faoi náire go bhfuil an scéal amhlaidh. Ach bhí
-mé ag caint ar choimpeart - ar a theacht, seachas ar a imeacht
-as gan a chead féin.
+'Níl mé chomh naofa sin, a uncail,' a deireadh Sud bocht.
 
-Fíorsheaspúnach a bhí in athair Shuid, agus ba ar fhóide na
-Seaspúnach a cuireadh tús leis an chleasaíocht a d'fhág ar
-Sud féin an tsaol. Agus bíodh gur tugadh iarraidh i ndiaidh
-an tsaolta údaí an chlann a neadú agus a shocrú ar ais ar an
+Is féidir a fhuadach a fhágáil ormsa, thar dhuine ar bith
+eile, dá raibh ann an oíche sin, agus admhaím faoi náire go
+bhfuil an scéal amhlaidh.  Ach bhí mé ag caint ar a
+choimpeart - ar a theacht, seachas ar a imeacht as, gan a
+chead féin.
+
+FíorSheaspúnach a bhí in athair Shuid, agus ba ar fhóide na
+Seaspúnach a cuireadh tús leis an chleasaíocht a d'fhág Sud
+féin an tsaol. Agus bíodh gur tugadh iarraidh i ndiaidh an
+tsaolta údaí, an chlann a neadú agus a shocrú ar ais ar an
 talamh bheannaithe s'againn féin, theip glan ar an iarracht
 a rinneadh. Chuir m'athair an locht ar an teilgeadh amach ar
 an loch a bhain d'athair Shuid. Ba mhór a dhúil san
@@ -369,9 +371,9 @@ chlann Shuid, agus chuala mise go bhfuair an t-athair a
 thumadh mar fhuarú ar shotal dhána Sheaspúnach, ach níl
 amhras ná go raibh tionchar ag rudaí eile ar an chinneadh
 diomaite den bhaisteadh údaí. Ba cheann de na rudaí sin
-cothú clainne, aithníodh saothrú i leith ábhar coganta a
+cothú clainne: aithníodh saothrú i leith ábhar coganta a
 sholáthair don dream a raibh ar an tsaol dá bharr, aithníodh
-é ar phríomhchúraimí athara ar bith.
+é ar phríomhchúraimí athara ar bith, san am.
 
 Ar tús, bhíothas i ndóchas go mb'fhéidir go mbainfeadh
 Seaptús, an t-athair atá i gceist, go mbainfeadh sé slí
@@ -390,7 +392,7 @@ Seans fosta, go raibh Seaptús meallta faoin mhéid grinn a
 bhí ina chuid scéalta, cé gur bhain siad gáirí go leor as
 féin agus é á léamh ar ais dó féin sa tseomra san oíche. Ar
 an drochuair, cuireadh an mhórchuid acu anall ar ais chuige,
-gus ní bhfuair sé ach mionairgead as an mhéid a coinníodh.
+agus ní bhfuair sé ach mionairgead as an mhéid a coinníodh.
 
 'Níl na greannáin mar a bhí,' a  deireadh sé leis féin sa
 tseomra.
@@ -411,18 +413,18 @@ tairngreacht.
 Dúradh gur scanraigh Seaptús cuid mhór acu, agus go ndéanadh
 sé damhsa millteanach ina measc, a d'fhágadh líon mór acu ar
 lár nó i bhfolach sna muineacha bambú ina dhiaidh. B'fhéidir
-go raibh barraíocht coiscéimeanna aige sa deireadh, mar
-fuarthas greim air agus rinneadh cás deas bambú dó a mbeadh
-sé féin ábalta amharc amach as agus é ag éisteacht lena
-gcuid mallachtaí agus gáirí sa teanga bhuí go ceann fada go
-leor.
+go raibh barraíocht coiscéimeanna aige sa deireadh, dalta
+nótaí a thrumpa, mar fuarthas greim air agus rinneadh cás
+deas bambú dó, a mbeadh sé féin ábalta amharc amach as agus
+é ag éisteacht lena gcuid mallachtaí agus gáirí magúla sa
+teanga bhuí s'acu go ceann fada go leor.
 
 Tugadh drochbhail ar Sheaptús bhocht le linn a chuid laetha
 cáis bhambú.  Tugadh sceilpeáil fhada mhillteanach dó le
 bataí den phlanda chéanna. Cuireadh uisce fuar agus
 gailseacha fada de chuid an Domhain Thoir isteach ina
 chluais. B'éigean dó codladh bun os cionn in amanna, agus
-b'éigean dó bia saoifiúil an Domhain Thoir a ithe gach uair
+b'éigean dó bia saoifiúil an Domhain Thoir a ithe san uair
 a mbeadh fonn orthu é a chothú.
 
 'Ba bheag sin de,' a deireadh m'athair. 'Thaispeáin siad
@@ -434,9 +436,10 @@ Ba leor sin do Sheaptús bhocht; neadaigh na pictiúir
 saoifiúla scanrúla sin go domhan ina cheann bhlagaideach;
 ní tháinig leis ariamh á ndíbirt as a bhlaosc. Nuair a bhí
 sé anseo ba mhinic a mhusclódh a chuid béicí mé: 'Chan níos
-mó pictiúr! Chan níos mó díbh! Ná feicim níos mó acu!'
+mó pictiúr! Chan níos mó díbh! Á!á!a! Ná feicim níos mó acu!'
 Thigeadh na pictiúir údaí sin chuige ina chodladh dó; ní
-chodlódh mo dheirfiúr in aon seomra leis.'
+chodlódh mo dheirfiúr in aon seomra leis; is beag a foighid
+dá mhacasamhail sin le linn ama shuain.'
 
 'D'éalaigh sé uatha faoi dheireadh,' a leanadh m'athair.
 'Mangaire bananaí agus éisc a chuidigh leis. Thángthas sa
@@ -451,7 +454,7 @@ dheireadh le cuidiú báid faoi thoinn, deirtear.'
 Ar scor ar bith, sílim i ndiaidh gur caitheamh sa loch é,
 gur éirigh drochobair na bpictiúr níos fíochmhaire i gceann
 athair Shuid, agus idir sin agus na deacrachtaí a bhain le
-cúrsaí bídh, chuir sé a thrumpa fada sa bhosca lá, agus thug
+cúrsaí bídh, chuir sé a thrumpa fada ina bhosca lá, agus thug
 sé a bhean agus a bheirt níonacha ar ais chuig tír na
 Seaspúnach.  Ní tháinig aon duine acu sin ar ais chuig an
 tír seo, ach tháinig mac dó chugainn, mac a tháinig ar an
@@ -461,33 +464,969 @@ dtíre, agus thír a mháthara.
 
 Obair ar fheirm turcach, a fuair Seaptús taobh amuigh dá
 bhaile mhór dúchais. Ba bheag a dhúil sna fuaimeanna ná san
-chuideachta ar an fheirm ach lean sé air mar oibrí turcach
-inti go ceann seacht mbliana déag. Faoin am sin bhí rath mór
-i ndiaidh theacht ar an fheirm gur éirigh sí cosúil le baile
-mór - tithe, sráideanna, agus clóis inti, agus turcaigh mar
-lucht cónaithe agus lucht cainte is siúil iontu. Ní raibh
-reilig acu, áfach, mar na turcaigh a d'imigh as a mbeatha,
-chuirtí a dtaisí chuig bailte móra daoine, cuid acu i dtír
-na Seaspúnach agus cuid mhór acu thar sáile uaithi. Faoin am
-sin a raibh a sheacht mbliana déag caite ag Seaptús i measc
-na dturcach, tharla dhá rud nach raibh lena leas: tugadh
-sealobair oíche isteach le cois a choinneáil leis na
+chuideachta fáoin fheirm údaí ach lean sé air mar oibrí
+turcach inti go ceann seacht mbliana déag. Faoin am sin bhí
+rath mór i ndiaidh theacht ar an fheirm gur éirigh sí cosúil
+le baile mór - tithe, sráideanna, agus clóis inti, agus
+turcaigh mar lucht cónaithe agus lucht cainte is siúil
+iontu.
+
+Ní raibh reilig acu, áfach, mar na turcaigh a d'imigh as a
+mbeatha, chuirtí a dtaisí chuig bailte móra daoine, cuid acu
+i dtír na Seaspúnach agus cuid mhór acu thar sáile uaithi.
+Faoin am sin a raibh a sheacht mbliana déag caite ag Seaptús
+i measc na dturcach, tharla dhá rud nach raibh lena leas:
+tugadh sealobair oíche isteach le cois a choinneáil leis na
 hordaithe, agus thoisigh a lán de na hordaithe sin a theacht
 as an Domhan Thoir. Taobh istigh dá cheann féin, is gairid
 go raibh sé ar ais ina chás bambú, agus i mbothán dorcha na
 bpictiúr saoifiúla scanrúla.
 
 Níorbh fhad ina dhiaidh sin gurbh éigean é a thabhairt chuig
-feirm eile, feirm shaoifiúil na ngealt. Bhí a chuid
-deirfiúracha pósta agus i mbotháin dá gcuid féin, fá sin,
-ach ní raibh na seacht mbliana déag bainte amach ag Sud go
-fóill, agus tugadh an cinneadh go gcuirfí anall chugainne é.
-Ba é m'athair a chéadthairg cúram chothú agus stiúradh Shuid
-a chur ar fáil, faoi chreatacha a thí féin. Thug Searlaí
-Bhearnaí triúr againn chuig an ché, oíche earraigh amháin,
-in araicis ár nduine mhuinteartha de thógáil thír na
-Seaspúnach, in araicis Shuid. Ba oíche chinniúna í.
-marc:
-Domh Beal 19 15:39:21 UTC 2019
+feirm eile, feirm shaoifiúil na ngealt, áit a mbíodh sé féin
+agus comrádaithe dá chuid sa tóir ar thurcaigh agus ar éin
+de chleití eile fud urláir an tí mhóir.  Ó thaobh ghnoithe
+Shuid de, bhí a chuid deirfiúracha pósta agus i mbotháin dá
+gcuid féin, fán tráth sin, ach ní raibh na seacht mbliana
+déag bainte amach aige go fóill, agus tugadh an cinneadh
+go gcuirfí anall chugainne é.  Ba é m'athair a chéadthairg
+cúram chothú agus stiúradh Shuid a chur ar fáil, faoi
+chreatacha an tí s'againne.
+
+Thug Searlaí Bhearnaí triúr againn chuig an ché, oíche
+earraigh amháin, in araicis ár nduine mhuinteartha de
+thógáil thír na Seaspúnach, in araicis Shuid. Ba oíche
+chinniúna í.
+
+marc: Domh Beal 19 15:39:21 UTC 2019
+
+-----------------
+Oíche 2
+
+
+Bob a ba siocair le mo chéad deoraíocht, bob dár bhuail
+mé féin agus an Rúballach ar shíothmhaor ghallda gan mhaith a
+neadaíodh inar measc sna laethanta roimh thús na cogaíochta
+reatha seo.  Bob soineanta go leor a bhain le madaí a bhí ann,
+ach bob cinniúnach ar chuid mhaith dóigheanna. Dá bharr,
+bheartaigh an síothmhaor bás mo dhilchara conda féin, Topnús, rud
+a thug orm dán a scríobh, dán a foilsíodh ar an nuachtán áitiúil,
+dán a bhain duais domh ach a bhain tuilleadh binbe as an
+tsíothmhaor nuair a fuair sé aistrithe é: ar Thopnús a dhírigh sé
+a chéad drochbheart claiteach; ach ar m'athair a dhírigh sé an
+dara ceann. Dá bharr, go hindíreach, mar sin de, tugadh ar
+m'athair mise a chur i bhfolach, agus a chuid gníomhartha féin a
+chúngú go mór, agus choinneáil faoi cheilt mhéadaithe. Ba
+ghníomhartha i gcónaí iad a bhain le cothú na clainne, cothú ar
+ola ar chroí mo shíothmhaoir laghdú maith a theacht air.
+
+Lean iarsmaí eile.  Sular cuireadh tús le mo thréimhse
+deoraíochta, chuala Agaisín faoin bhob. Thaitin sé go mór
+leis. Tharla lámh nach beag ag an tsíothmhaor i bhfeallmharú a
+athara. Bhí slán fágtha aige ag a chuid staidéir mar ábhar fir
+altóra. Bhí tús curtha aige le staidéar eile, agus ba mhó a shuim
+san fhilíocht. D'iarr sé orm theacht ar cuairt chuige ina theach.
+Thug a mháthair bonnóga agus tae dúinn sa tseomra. Bhí cuid mhór
+le rá aige. Réitigh muid go breá le chéile. Mhol sé cruinniú. An
+oíche dár gcionn, thug sé Platón leis chuig an chruinniú; thug
+mise an Rúballach agus mo chol ceathair Sud. Cuireadh tús le
+Cuallacht Bhricreann. Bhí gach mac againn iontach tógtha.
+
+Cuireadh deireadh le mo chéad tréimhse deoraíochta, as siocair
+dea-obair Chuallacht Bhricreann. Ní raibh a fhios ach ag
+fíorbheagán gur mar sin a bhí ar ndóighe. Ba é Sud a mhínigh na
+cúrsaí domhsa, le linn mo chéad oíche ar ais; lena linn fosta,
+chuir m'athair in iúl domh go bhfuair sé jab domh - mar ghiolla
+buidéal i dTeach Ósta an Droichid.
+
+Déanfar iontas den ainm Sud, ceann de chuid na Seaspúnach,
+an dream gallda is namhaid dúinn ó dhúchas, agus an dream a
+bhfuil dronga dá bpór dár seilg go fíochmhar cíocrach fríd
+chrainn na coilleadh móire i láthair na huaire.  Beifear ar
+an eolas gur shantaigh siad ár gcuid talaimh i ndiaidh daofa
+éirí ábalta longa a thógáil den ghiúis agus gloiní féachana
+a dhíriú ar ár gcladaigh; gur chum siad bríonna bréaga as a
+leagan féin den leabhar bheannaithe a cheadaigh ár gcur faoi
+chois agus slad iomlán a dhéanamh orainn; gur chuir siad
+rompu amhlaidh ár gceansú inár gcoileáin lútála; gur éirigh
+sé de fhlaithiúlacht iontu a ndlí, a gcaint, a gceirteach,
+agus a ngruaig a bhronnadh orainn; agus beifear ar an eolas
+chomh maith nár éirigh go hiomlán lena gcuid seifteanna.
+Seo i mo dhiaidh cúrsaí is eol do gach mhac agus iníon faoi
+bhun gruaige ar bith. Ach beidh fonn oraibh foghlaim faoin dóigh
+ar tharla Sud mar lipéad ar chol ceathrar domhsa, agus faoin
+dóigh ar éirigh sé ina ghaiscíoch i measc mac Chuallacht
+Bhricreann, in ainneoin a leath-phóir.
+
+Cá bith cad é an nádúr a fágadh sna cailíní de thógáil
+mháthair mo athara, tháinig de chinniúint ar an mhórchuid
+acu go ndeachaigh siad a luí le boic den phór ghallda, an
+tráth a dtáinig críoch lena gcuid reatha agus damhsaí
+léimneacha. Ba ar an ghruaig agus ar an chaint mhuilinn a
+leag m'athair an milleán.
+
+'Agus an ghruaig mar sin orthu agus caint na scuitseoirí
+chomh tréan sin acu, ní hionadh ar bith é gur chríochnaigh
+siad ar na tochasóirí ar shocraigh siad orthu fá dheireadh,
+na créatúir.'
+
+Maidir leis an ghruaig ní bhfuair mé riamh - agus ní
+bhfaighidh mé choíche anois - a bheachtú cé acu don dath
+aiceanta nó buidéil, don cheangal nó don chóiriú a bhí sé ag
+tagairt, nó do mheascán faoi leith de na rudaí sin ar fad;
+ach thug sé a thuilleadh eolais domh faoi ghnoithe na
+cainte.
+
+Ba sa mhuileann a fuarthas mo mháthair mhór mar chéile agus
+mar ghléas buanaithe clainne, ach ba bhean chiúin mhodhúil í
+- go mbaintear aisti é, agus rud eile de, bhí caint na
+tuaithe aici chomh maith. Níorbh amhlaidh do na níonacha a
+thóg sí. Ba thréan a mbíodh de eagla orm féin rompu, agus
+b'uafás liom a bheith fágtha leo agus gan sa chuideachta ach
+mná.
+
+Ní ghlacfadh sé ach an mhionchuid de bhomaite i do láthair
+go mbeadh ualach millteanach de ábhar magaidh agus
+ceartaithe bailithe acu fá do choinne. Ba líonmhar a
+bhfoinsí don ábhar seo. Do chuma go ginearálta, do chuid
+dóigheanna siúil, suí, iompair éadaigh, stíleanna labhartha,
+agus an craiceann agus an ghruaig a chaith tú, b'uafásach an
+lón a mbaintí astu agus as rudaí nach iad, le go ndéanfaí do
+cheartú agus do 'chur i do bhosca'. Sin nath coitianta dá
+gcuid, 'Cuirfidh mise ina bhosca é', agus chuirfeadh - agus
+chuir. Agus b'fhada ba leasc leat an clár a thógáil.
+
+Thar rud ar bith eile, ba bhaothdhána uait tuairim nó moladh
+ar bith a ligean uait i láthair mná ar bith acu. An focal
+'agus' féin, ba chumhachtach scanrúil ina mbéal é.
+
+'Agus nach mór an cur amach a bheadh agatsa ar na cúrsaí
+sin, a Ghiolla na mbróg gáiriteach ...'
+
+'Éistimis leis an bhodach seo go ndéanfar ár leas, agus
+an grágán gruaige gan chíoradh le coicís mar mhaise ar a
+cheann aige, ceann na céille móire -- dar leis féin.'
+
+'agus nach maith mar a bhí tusa ag éisteacht le cailleach na
+gcearc sin is máthair mór don chomrádaí amaideach sin
+s'agat, an Rúballach, go bhfuil a cuid seafóide ar bharr do
+ghoib agat lena cur ar fáil dúinne anseo..'
+
+Mhínigh m'athair domh go ndearna na boic ghallda scéal
+cinnte dá mbarúil nach raibh na mná seo i ndáiríribh agus a
+leithéid seo do chaint ag teacht uathu.
+
+'mo thrua a gciall' ar seisean, 'b'fhada go mbeadh dul
+amódha mar sin ar an té a tógadh faoi scáil an mhuilinn -
+b'fhada sin.'
+
+Bíodh sin uilig mar atá, ba as tionchar na cainte agus na
+gruaige údaí, a tháinig sé gur fágadh Sud ar an tsaol.
+Gruaig asail a bhí air féin. Nach minic mar bheart grinn a
+théadh m'athair a chuartú croise air.
+
+'Níl mé chomh naofa sin, a uncail,' a deireadh Sud bocht.
+
+Is féidir a fhuadach a fhágáil ormsa, thar dhuine ar bith
+eile, dá raibh ann an oíche sin, agus admhaím faoi náire go
+bhfuil an scéal amhlaidh.  Ach bhí mé ag caint ar a
+choimpeart - ar a theacht, seachas ar a imeacht as, gan a
+chead féin.
+
+FíorSheaspúnach a bhí in athair Shuid, agus ba ar fhóide na
+Seaspúnach a cuireadh tús leis an chleasaíocht a d'fhág Sud
+féin an tsaol. Agus bíodh gur tugadh iarraidh i ndiaidh an
+tsaolta údaí, an chlann a neadú agus a shocrú ar ais ar an
+talamh bheannaithe s'againn féin, theip glan ar an iarracht
+a rinneadh. Chuir m'athair an locht ar an teilgeadh amach ar
+an loch a bhain d'athair Shuid. Ba mhór a dhúil san
+iascaireacht.
+
+'Chaith na blaigeaird amach ar an loch an fear bocht, de
+bharr gur dhúirt sé leo nár cheart baoite a dhéanamh as na
+loscainn, agus go raibh muintearas gairid idir an duine agus
+an loscann, rud nach gceileann a gcuma ná gcuid dóigheanna.'
+
+Is cinnte nár chuidiú sin le cinneadh a choinneodh sa tír
+chlann Shuid, agus chuala mise go bhfuair an t-athair a
+thumadh mar fhuarú ar shotal dhána Sheaspúnach, ach níl
+amhras ná go raibh tionchar ag rudaí eile ar an chinneadh
+diomaite den bhaisteadh údaí. Ba cheann de na rudaí sin
+cothú clainne: aithníodh saothrú i leith ábhar coganta a
+sholáthair don dream a raibh ar an tsaol dá bharr, aithníodh
+é ar phríomhchúraimí athara ar bith, san am.
+
+Ar tús, bhíothas i ndóchas go mb'fhéidir go mbainfeadh
+Seaptús, an t-athair atá i gceist, go mbainfeadh sé slí
+bheatha as an trumpa fada a bhí anall leis, nó as na
+scéalta iascaireachta a bhí sé  a chur anonn chuig na
+greannáin Sheaspúnacha.  Ní mar a shíltear.
+
+Shíl m'athair go raibh 'barraíocht nótaí' aige san trumpa
+fhada.
+
+'Ní gá gur ar féin a locht,' a dúirt sé liom lá. 'Tá fad
+millteanach ann. Ansin is gá i gcónaí ina leithéid de chás
+an ganntanas gruaige a chur san áireamh.'
+
+Seans fosta, go raibh Seaptús meallta faoin mhéid grinn a
+bhí ina chuid scéalta, cé gur bhain siad gáirí go leor as
+féin agus é á léamh ar ais dó féin sa tseomra san oíche. Ar
+an drochuair, cuireadh an mhórchuid acu anall ar ais chuige,
+agus ní bhfuair sé ach mionairgead as an mhéid a coinníodh.
+
+'Níl na greannáin mar a bhí,' a  deireadh sé leis féin sa
+tseomra.
+
+Ní raibh mé féin taobh amuigh den tseomra san am nuair a
+deireadh sé sin, ar ndóighe, ach níl amhras orm ná go
+ndeireadh.
+
+Fear cróga calma a bhí i Seaptús agus é i mbun a mhaitheasa
+fir.  Sáitheadh i mbríste saighdiúra é, agus tugadh bataí
+agus sceana troda dó, agus é ina dhéagóir go fóill. Bhí na
+Seaspúnach i gceann troda le dream buí san Domhan Thoir san
+am, agus d'imigh Seaptús mar dhuine acu nach raibh eagla air
+roimh 'liuprúcháin bhuí an Domhain Thoir' agus a chuirfeadh
+múineadh orthu. Ní tháinig an tuar go hiomlán faoin
+tairngreacht.
+
+Dúradh gur scanraigh Seaptús cuid mhór acu, agus go ndéanadh
+sé damhsa millteanach ina measc, a d'fhágadh líon mór acu ar
+lár nó i bhfolach sna muineacha bambú ina dhiaidh. B'fhéidir
+go raibh barraíocht coiscéimeanna aige sa deireadh, dalta
+nótaí a thrumpa, mar fuarthas greim air agus rinneadh cás
+deas bambú dó, a mbeadh sé féin ábalta amharc amach as agus
+é ag éisteacht lena gcuid mallachtaí agus gáirí magúla sa
+teanga bhuí s'acu go ceann fada go leor.
+
+Tugadh drochbhail ar Sheaptús bhocht le linn a chuid laetha
+cáis bhambú.  Tugadh sceilpeáil fhada mhillteanach dó le
+bataí den phlanda chéanna. Cuireadh uisce fuar agus
+gailseacha fada de chuid an Domhain Thoir isteach ina
+chluais. B'éigean dó codladh bun os cionn in amanna, agus
+b'éigean dó bia saoifiúil an Domhain Thoir a ithe san uair
+a mbeadh fonn orthu é a chothú.
+
+'Ba bheag sin de,' a deireadh m'athair. 'Thaispeáin siad
+drochphictiúir shaoifiúla dó chomh maith. Bhí bothán dorcha
+faoi leith acu faoi choinne thaispeáint na bpictiúr, agus
+bhí sé de chumas acu na pictiúir a chur amach as lampaí agus
+á ndoirteadh ar na ballaí roimhe: is dream an-chliste iad.
+Ba leor sin do Sheaptús bhocht; neadaigh na pictiúir
+saoifiúla scanrúla sin go domhan ina cheann bhlagaideach;
+ní tháinig leis ariamh á ndíbirt as a bhlaosc. Nuair a bhí
+sé anseo ba mhinic a mhusclódh a chuid béicí mé: 'Chan níos
+mó pictiúr! Chan níos mó díbh! Á!á!a! Ná feicim níos mó acu!'
+Thigeadh na pictiúir údaí sin chuige ina chodladh dó; ní
+chodlódh mo dheirfiúr in aon seomra leis; is beag a foighid
+dá mhacasamhail sin le linn ama shuain.'
+
+'D'éalaigh sé uatha faoi dheireadh,' a leanadh m'athair.
+'Mangaire bananaí agus éisc a chuidigh leis. Thángthas sa
+tóir air, ar ndóighe, agus na cait mhóra stríocacha á n-úsáid
+mar mhadaí fola - tá cuid mhaith droim ar ais sa Domhan
+Thoir, is cosúil. Ach ní bhfuair siad é.  Cuireadh i mbád
+faoi hata bhiorach tuí é. Fágadh ina aonar ar oileán dufaire
+é, ach d'éirigh leis buidéal a chur a fhad lena chuid
+comrádaithe Seaspúnach gur tugadh tarrtháil air faoi
+dheireadh le cuidiú báid faoi thoinn, deirtear.'
+
+Ar scor ar bith, sílim i ndiaidh gur caitheamh sa loch é,
+gur éirigh drochobair na bpictiúr níos fíochmhaire i gceann
+athair Shuid, agus idir sin agus na deacrachtaí a bhain le
+cúrsaí bídh, chuir sé a thrumpa fada ina bhosca lá, agus thug
+sé a bhean agus a bheirt níonacha ar ais chuig tír na
+Seaspúnach.  Ní tháinig aon duine acu sin ar ais chuig an
+tír seo, ach tháinig mac dó chugainn, mac a tháinig ar an
+tsaol i ndiaidh daofa a bheith ar ais sa tír ghallda; agus
+bhí baint ag na pictiúir údaí le theacht Shuid chun ár
+dtíre, agus thír a mháthara.
+
+Obair ar fheirm turcach, a fuair Seaptús taobh amuigh dá
+bhaile mhór dúchais. Ba bheag a dhúil sna fuaimeanna ná san
+chuideachta fáoin fheirm údaí ach lean sé air mar oibrí
+turcach inti go ceann seacht mbliana déag. Faoin am sin bhí
+rath mór i ndiaidh theacht ar an fheirm gur éirigh sí cosúil
+le baile mór - tithe, sráideanna, agus clóis inti, agus
+turcaigh mar lucht cónaithe agus lucht cainte is siúil
+iontu.
+
+Ní raibh reilig acu, áfach, mar na turcaigh a d'imigh as a
+mbeatha, chuirtí a dtaisí chuig bailte móra daoine, cuid acu
+i dtír na Seaspúnach agus cuid mhór acu thar sáile uaithi.
+Faoin am sin a raibh a sheacht mbliana déag caite ag Seaptús
+i measc na dturcach, tharla dhá rud nach raibh lena leas:
+tugadh sealobair oíche isteach le cois a choinneáil leis na
+hordaithe, agus thoisigh a lán de na hordaithe sin a theacht
+as an Domhan Thoir. Taobh istigh dá cheann féin, is gairid
+go raibh sé ar ais ina chás bambú, agus i mbothán dorcha na
+bpictiúr saoifiúla scanrúla.
+
+Níorbh fhad ina dhiaidh sin gurbh éigean é a thabhairt chuig
+feirm eile, feirm shaoifiúil na ngealt, áit a mbíodh sé féin
+agus comrádaithe dá chuid sa tóir ar thurcaigh agus ar éin
+de chleití eile fud urláir an tí mhóir.  Ó thaobh ghnoithe
+Shuid de, bhí a chuid deirfiúracha pósta agus i mbotháin dá
+gcuid féin, fá sin, ach ní raibh na seacht mbliana déag
+bainte amach ag Sud go fóill, agus tugadh an cinneadh go
+gcuirfí anall chugainne é.  Ba é m'athair a chéadthairg
+cúram chothú agus stiúradh Shuid a chur ar fáil, faoi
+chreatacha a thí féin.
+
+Thug Searlaí Bhearnaí triúr againn chuig an ché, oíche
+earraigh amháin, in araicis ár nduine mhuinteartha de
+thógáil thír na Seaspúnach, in araicis Shuid. Ba oíche
+chinniúna í.
+
+Ach ba ar oíche chinniúna eile a ba cheart díriú anois, is í
+sin an oíche a tugadh ar ais mé as mo chéad tréimhse
+deoraíochta. Ba é Searlaí Bhearnaí a thug ar ais mé. Agus
+mar a dúradh cheana féin, ba é Sud a mhínigh domh fán dóigh
+a raibh lámh nach beag ag Cuallacht Bhricreann le
+m'fhuascailt.
+
+Ní thiocfadh leis rud ar bith a mhíniú domh,ar ndóighe,
+sula mbeadh deireadh leis an chóisir. Shocraigh mo mháthair
+bhocht go mbeadh cóisir dheas ann domh ar mo theacht ar ais
+ó mo chuid deoraíochta.
+
+'Cad é mar d'éirigh leat tigh mo dheirféara?' arsa m'athair,
+nuair a bhí mé i mo shuí de chois na tineadh.
+
+'Cad é do bharúil?' arsa mise leis, agus mé ag iarraidh nod
+eolais a chur i mo shúil nach dtuigfeadh ach é féin.
+
+Rinne sé gáire.
+
+'Beidh tú eolach go leor ar chúrsaí úll feasta, a mhic. Agus
+is fearr thú gan amhras i ndiaidh duit tamall a chaitheamh
+ar scoil leis an Amhránaí.'
+
+Sin an t-ainm greannmhar a bhí ag m'athair ar fhear na
+deirféara s'aige a chuaigh a chónaí i gceantar na n-úll.
+- ainm greannmhar ar fhear go hiomlán gan ghreann agus go
+hiomlán gan cheol.
+
+'An ceithearn dubh gan mhaith!' arsa mo mháthair. 'Nach trua
+gurbh éigean tú a chur ina ghaobhar nó faoi scread asail dá
+leithéid!'
+
+Ansin le m'athair 'níl a fhios agam conas mar a chríochnaigh
+Siugaí suas mar bhean phósta - más pósta iad - ag an bhodach
+mór buí gan mhaith sin in aon chor.'
+
+'Bhí úllaí agus airgead aige,' arsa m'athair, 'agus ceol lá
+den tsaol.'
+
+'Ceol as greadadh drumaí, b'fhéidir, más ceol sin,' arsa mo
+mháthair.
+
+Bhí a fhios ag Sud go raibh sí ar tí caoineadh, agus dhruid
+sé anonn chuici a thabhairt croí isteach di.
+
+'Tá ceol agamsa,' ar seisean. 'Cá bhfuil mo chíor?'
+
+
+Ba ghearr go raibh fad mór á bhaint as a bhosca ceoil ag
+m'athair agus gach aon mhionchreathú le sonrú ar obair go
+luascach ar cheann Shuid agus gach aon anonn agus anall ar
+siúl ag an ghruaig asail de réir mar a bhí an béal sa tóir
+go cíocrach ar pholl-láthair an nóta chuí. Siúd isteach na
+mionpháistí a bhí in ainm a bheith ina luí, agus gach aon
+léim agus coiscéim mhire acu go díreach mar bheadh mála
+liupriúchán i ndiaidh a dhoirte amach ar an urlár os comhair
+na gceoltóirí. Mhuscail cnagadh i sáil mo bhróige féin.
+
+'Ní thabharfar Gúrdún chuig an fhuinneog anocht,' a scairt
+m'athair. Tagairt don síthmhaor gan mhaith.
+
+'Nár fhille a leithéid arís orainn, choíche,' arsa mo
+mháthair, agus spion breá uirthi anois. 'An bhfaighidh mé na
+spúnóga?'
+
+'Agus nár bhánaítear a ghaosán ramhar ar ghloine dá bhfuil
+ann dár bhfuinneog go deo na ndeor!' arsa Searlaí Bhearnaí,
+a bhí i ndiaidh a theacht isteach. Agus bhronn sé duisín de
+choiscéimeanna sean-nóis ar dhroim an urláir. Níl a fhios
+agam an raibh níos mó ná sin aige. Ach dá mba é a locht
+ganntanas a líonmhaireachta, ba bhlasta leat iad, agus iad á
+mbualadh, an oíche sin, agus ba bhinn le cluas an cheoltóra
+ar míne cluas mar a bualadh iad. Ina ndeireadh mar
+choiscéimeanna bhain cnag buidéil bhiotáilte de dhéantús na
+gcnoc a chuid féin ceoil as muin an tábla.
+
+Níor moladh go bhfaigheadh mo mháthair na spúnóga a fhad
+agus a bheadh sí sa tóir ar na hadharca óil.
+
+Thost an ceol bomaite. Labhair m'athair.
+
+'Ní chuirfinn ceist cá bhfuarthas an buidéal,' ar seisean.
+
+'Leoga ní chuirfeá, mar nach maith mar atá a fhios agat 'mura
+bhfuil sé san bhosca agam, tá sé san bhuidéal agam, agus
+mura bhfuil sé sna magairlí agam..' ' Thost sé.
+
+'Mo leithscéal domhain, a chailíní, agus a chuideachta; is a
+mhalairt de chuideachta a chleachtann Searlaí Bhearnaí
+bocht, de ghnáth, ar an drochuair dó féin, mar tá sé chun
+drabhláis agus chun donais acu, mo mhallacht orthu idir fhir
+agus mhná.'
+
+'Maithfear anseo thú, a Shearlaí Bhearnaí, mura maithfear in
+áit eile,' arsa m'athair. 'Tuilleadh ispíní chuig Searlaí
+Bhearnaí.' Agus baineadh an tuilleadh sin den tsorn le fonn.
+Anois, bhí an dá dhorn lán ag an fhear chorcra. Cheol sé
+amhrán dá chuid nach raibh gáirsiúil. Thug sé leis glór gach
+duine isteach sa churfá le luascadh lúfar dá ispín - glór
+gach duine diomaite d'fhear na círe.
+
+'Ní cuideachta go Searlaí Bhearnaí,' arsa m'athair.
+
+Ba san am sin a thréig mise an chuideachta go ceann tamaill
+as siocair gnoithe a bheith agam leis an 'asal'. I mo
+sheasamh domh, ansin chuala mé an cnag ar an fhuinneog.
+
+Sheas mé ar chlár an bhabhla a chur mo chinn amach ar an
+fhuinneog a chur faisnéise an té a bhuail. Teachtaire lena
+theachtaireacht chugam a bhí ann.
+
+Gasúr teachtaireachta de chuid Agaistín a bhí ann. D'aithin
+mé ar an bhomaite é.
+
+'Teach an ghuail,' arsa mise leis. Tá teach guail i
+gcúlgharradh gach tí de na tithe bána.
+
+Ba ghearr go raibh mé féin agus teachtaire Agaistín i
+gcuideachta a chéile i gcúl theach an ghuail. Chuir mé ceist
+air cad é mar a bhí a fhios aige gur mise a tháinig isteach
+agus gur cheart cnagadh mar sin.
+
+'D'aithin mé do scáil, ar ndóighe.'
+
+Bheadh saineolas scáileanna agus ar shaol na scáileanna ag
+an bhoc chéanna. Agus fiú má bhí a aithint contráilte,
+rachadh sé as radharc chomh gasta le heasóg. Boc rua caol a
+bhí ann nach raibh an-éagsúil le ceann de na beathaigh
+shlítheánta sin, ina chruth ach an oiread. Is annamh a
+ligeadh sé an abairt iomlán uaidh.
+
+'Fear an chochaill dhuibh. Tá a fhios ...' Baineadh
+mionsméideadh as an cheann. 'Caint le Sud. An namhaid nach
+bpillfidh. Tús úr. Agus seo,' ar seisean. Shín sé dorn
+chugam.
+
+Shín mise uaim bos. Nuair a bhí an dorn os cionn na boise,
+osclaíodh í, agus mothaíodh ar an bhos an teachtaireacht,
+teachtaireacht idir chrua mhín agus chruinn.
+
+'Gnáthchlog. Gnáthfhód,' arsa an teachtaire. Siúd ar shiúl
+uaim ansin é ar lorg a thaoibh, gur imigh as radharc thar an
+bhalla mar a d'imeodh stoc dubh le feothan gaoithe.
+
+Chúlaigh mé isteach i dteach an ghuail, áit ar bhain mé
+lasán den bhosca a bhain mé aníos as mo phóca, nuair a
+musclaíodh a sholas a lasadh aghaidh mo bhoise, lasadh an
+tuigbheáil i mo cheann ina chuideachta: mirlín an imrisc
+ghlais; cruinniú, cruinniú ginearálta. Chuirtí faisnéis inár
+measc ar an dóigh sin: ba ionann mirlín agus teachtaireacht
+a bhain le cruinniú, agus cuireadh leis an eolas fríd dhath
+imreasc an mhirlín, ceann glas sa chás seo - ciall
+ghinearálta; dá mbeadh imreasc gorm sa mhirlín, ba chruinniú
+príobháideach a bheadh a chiallú. Is iomaí dath imrisc a bhí
+sna mirlíní i mbosca mirlíní Agaistín.
+
+An ceann a tháinig ar cuairt agam an oíche sin, chuir mé i
+mbosca mo lasán é go ciúin agus thug mé aghaidh ar an
+chúldoras agus ar láthair an cheoil, arb é a shiocair mo
+theacht ar ais ón deoraíocht.
+
+'Bhí mé ag rá ansin go bhfuair mé jab duit, a mhic,' arsa
+m'athair liom chomh luath agus a nocht mé ar ais i seomra an
+cheoil. 'Beidh dúil mhór agat ann.'
+
+'Is dóiche go mbeidh,' arsa mé féin. 'Cad é an jab a bhfuil
+muid ag caint air?'
+
+'Jab tábhairne. Teach Ósta an Droichid. Amárach do chéad
+lá.'
+
+Bhí sé ag dul i gcosúlacht leis an té a shleamhnaigh uaim
+thar bhalla roinnt bomaití, roimhe seo. Sin an chéad chuid
+den eolas a raibh dlúthbhaint aige le mo shaol ar fad an
+oíche sin. Fuair mé an dara cuid ó Shud nuair a tháinig sé
+a luí san tseomra ina gcodlaímis beirt sna laethanta sin.
+
+'Cleas an Fhir Mhóir Fhada a mheall é..' arsa Sud ag
+toiseacht agus ag insint domh fán dóigh ar cuireadh deireadh
+le laethanta feall-imeartha an tsíothmhaoir fán bhaile mhór
+s'againne.  Thaitin sé go mór liom gurb é an Fear Mór Fada a
+chuir deireadh leo mar laethanta, laethanta dorcha, a
+mhuscail an dorchadas i gcuid mhór againn lena linn: ba deas
+gur scáil an Fhir Mhóir Fhada anuas as aois sular saolaíodh
+aon duine againn, gur scáil í a d'fhágfadh droch-scáil an
+tsíothmhaoir mar smál siúlta ar fhóide cheantar ínteacht
+eile. Mo mhallacht ar an scáil chéanna, agus go gcuirtear
+luíocháin eile roimpi, cá bith áit a dhorchaíonn sí.
+
+Is mithid an chéad chuid de scéal an tsíothmhaoir gan mhaith
+a insint, rud a thiocfas ó mo pheann luaidhe an chéad oíche
+eile. Is í sin an chuid a bhain leis an bhob a luaigh mé,
+bob soineanta a bhain le madaí agus a dtáinig bás madaidh
+dhílis as, ar dhóigh, bás mo charad chonda mhaith féin,
+Tafnús.
+
+Luan Meith 10 14:37:36 UTC 2019
+
+Oíche 3
+
+Is san am sular bunaíodh Cuallacht Bhricreann, ar chor ar
+bith, a bualadh an bob cinniúnach ar an tsíothmhaor ba mhó
+feall sin, arbh éigean dó glanadh as an bhaile mhór de bharr
+dea-obair na cuallachta. Sna laethanta sin roimh an bhunú,
+ní raibh ach beirt de bhunadh an bhaile mhóir, a bhí i
+gceann na mbobanna mar ba cheart: mé féin agus an Rúballach.
+Agus as an bheirt, an lá dá dtiocfadh sé, a gcuirfí coróin
+na gcopóg ar cheann an té ba chróga agus ab ealaíonta bob,
+is ar chloigeann chatach dhubh an Rúballaigh a rachadh sí
+gan cheist gan phlé gan mhionmhachnamh. Cén ceann a mbeadh
+fad ann, más eadh, a shamhlódh go ndéanfaí an cinneadh
+choíche, fear chomh cumasach galánta bob leis, a dhíbirt as
+an chuallacht?  Thiocfaí a fhad leis sin in am chuí; ach san
+idirlinn ní mór cuntas éigin a thabhairt ar an chumas sin.
+
+Maidir le clann agus dúchas, ba mhó an méid a gheofaí mar
+mhíniú ar thréithe an Rúballaigh mar fhear eachtraí agus
+chuilceach dea-bhob. An t-athair a thóg é, tógadh é féin ar
+imeall an bhaile mhóir i sraith tithe a cuireadh ar an
+talamh raithní sin mar chónaí don dream a d'oibir san
+mhuileann - sraith a dtugtaí Sraith na bPréachán uirthi,
+agus táthar den tuairim faoi dhíon chuid de na tithe nach
+ndearnadh ballóga díofa gurbh fhearrde an baile mór leagan
+Shraith na bPréachán. Bhí tuairim eile ann.
+
+'Na tithe a thóg siad ina n-áit,' arsa máthair mhór an
+Rúballaigh, 'ní raibh an saol iontu mar ba cheart. Cá bhfuil
+mar a bheadh? Agus na clocha a chuir siad iontu. Agus ar
+réitigh siad de raithneach thart orthu, rud nár cheart.'
+
+Luaigh sí na sceacha bána beannaithe chomh maith; ach tá mé
+i ndiaidh dul chun tosaigh orm féin.  Ina dhiaidh sin is
+uile, nár mhaith mar a tháinig an bhean féin as an chaint
+s'agam, faoi mar a bheadh sí i bhfolach ansin, agus í ar
+tinneall chun preabtha as an raithneach san am ba lú a
+mbeifí ag dréim léi. Is leis an chuid sin de dhúchas an
+Rúballaigh a bhí mé ag druid, gan amhras, ar a mháthair
+mhór agus ar ar bhain léi; ach is tráthúil mar a sháigh a
+sí féin a ceann lín-liath amach: is cinnte nach faoi smacht mo
+thola féin mo scéal; agus i bhfocail na mná féin:-
+
+'An méid nach dtáinig ionainn ón dream a dtáinig sinn uathu
+agus astu, agus a dtáinig sinn ann dá mbarr, is beag an méid é.'
+
+B'fhíor dí, agus b'fhíor di a lán dár dhúirt sí. Ní hionann
+sin agus a rá, áfach, nár bhean ghnímh í, chomh maith: ba
+eadh. Le linn a chuid laethanta sa mhuileann, shocraigh sí
+do dhroch-shaoiste dóighiúil, ar ghnách leis drochbhail a
+thabhairt ar na cailíní, shocraigh sí go ciúin dó go mbainfí
+géag dá chuid de, san innealra, rud nár chuir lena chuma nó
+a chumas glacaíochta nó muirnithe. Thugtaí boc na muinchille
+foilmhe air feasta; ach bhí barraíocht de fágtha go fóill.
+Ba throdaí fíochmhar í fosta le linn laethanta na gealaí
+ísle, más fíor a gcuala mé fá dtaobh di, an tréimhse
+dheireanach ar tugadh faoi ruaigeadh an namhad.
+
+'Leagadh sí gaistí daofa féin agus nimh dá gcuid madadh.
+Bhaineadh sí fuil agus brístí. D'fhágadh sí dódh neantóige
+ar mhása nach leigheasfadh an copóg dá leithne. Chreid siad
+gur cailleach í a chónaigh i measc na mbuachalán mbuí.'
+
+Bhí ortha na fola aici, agus eolas ar gach íocshláinte dá
+bhfuil ar fáil i luibh nó i ndúil fhiáin de chuid talaimh nó
+aeir. Níor léigh sí leabhar riamh ach bhí stair agus
+seanchas na tíre ar a toil aici. Níor bheag an líon a mbeadh
+eagla orthu roimpi, in ainneoin a mórchineáltais. Glan ar
+mire a bhí sí agus a máthair roimpi de réir m'athara ach ba
+fhear nua-aimseartha eisean nár mhór a mheas ar sheanealaín
+nó sheanchreideamh.
+
+Is beag sin mar chur síos ar an fhios, eolas agus chumas a
+bhain leis an bhean seo, ach cuirfear aithne níos leithne
+uirthi de réir mar a nochtann sí féin agus a tionchar le
+linn an scéil seo. Is éigean áfach a chur in iúl gur gá
+imeacht níos faide ón bhaile ná Sraith na bPréachán agus tú
+ar lorg fhoinsí na cumhachta a bhain léi. Cé go raibh sí
+an-cheanúil go deo ar an tSraith, níor chion as cliabhán é,
+mar tógadh í i gceantar na maolchnoc, áit nár éirigh leis an
+namhaid ná a shliocht na crainn darach agus na seanchrainn
+ársa eile a leagan inti, agus nach raibh sé d'uchtach acu
+cur fúthu inti. Bhí a shliocht uirthi mar áit de réir
+m'athara agus de réir fear eile nach é: fágadh an dream a
+bhí i ndiaidh a bheith ina gcónaí ansin leis na cianta
+cairbreacha, fágadh iad ar seandóigh, a d'éirigh dall,
+seanaimseartha, agus leath dothuigthe ag an mhuintir ón
+taobh amuigh.
+
+'Thigeadh fear acu isteach sa bhaile nuair a bhí mise i mo
+ghasúr,' arsa m'athair liom, lá, 'fear a raibh grágán
+millteanach gruaige air, cé go raibh sé aosta.  Bhí smacht
+aige ar shlabhraí agus ar gheaftaí is bhucaidí. Lá amháin,
+scanraigh sé an gabha dubh sa tSráid Ard, rud nárbh fhurast
+a dhéanamh.  Bhí smacht aige ar chailíní dóighiúla fosta;
+d'imíodh corrdhuine acu leis ar ais sna maolchnoic. Cha
+raibh mórán ar thaitníodh sé leo é a fheiceáil ag teacht.
+Ach bhí an seandream lán baothchreideamh agus iad bómánta dá
+réir.'
+
+Sna déaga de bhlianta a saoil a bhí máthair mhór an
+Rúballaigh ag teacht a chónaí i Sraith na bPréachán. Post a
+fuair an t-athair s'aici fán mhuileann, a thug ansin iad.
+Post mar fhear tarae, a fuair sé, obair a d'fhóir go breá dó
+as siocair a chuid scileanna i gcúrsaí uisce, agus as
+siocair an rúin a bhí aige bean úr a sholáthar dó féin a
+líonfadh an t-easnamh ina shaol a d'fhág a chéad bhean i
+ndiaidh di imeacht leis na giofóga. Agus é ag úthairt fán
+tarae i rith an lae, bhíodh sé in áit dheas ard chiúin
+amuigh faoin aer, áit óna dtiocfadh leis súil a dhíriú thall
+agus abhus ar na cailíní ag teacht agus ag imeacht fán
+gheafta tosaigh daofa, nó i gceann a gcuid oibre faoi
+mhuinchillí chraptha, taobh istigh de na fuinneoga móra i
+ngaobhar uisce ghasta an tarae.
+
+Ní raibh mórán gruaige air ach fuair sé bean acu i gceann
+cúpla bliain. Níor mhair sé mórán blianta ina dhiaidh sin.
+Go gairid i ndiaidh an tórraimh, d'imigh an dara bean, agus
+fágadh cúraimí an tí faoi mháthair mhór an Rúballaigh. Ní
+raibh fágtha sa teach ansin ach í féin agus deartháir
+amháin, an duine is óige sa chlann; d'imigh an chuid eile
+acu ar ais sna maolchnoic nuair a tháinig an bhean úr sa
+teach. Níor chuartaigh máthair mhór an Rúballaigh fear di
+féin, go raibh an deartháir óg ar shiúl chuig teach mór
+léinn thar sáile.
+
+'Chan fhuil a fhios agam cad chuige ar cuireadh anonn ansin
+é,' arsa m'athair. 'Bhí sé bómánta. Ba mhó i bhfad an t-am a
+chaitheadh sé sna crainn nó san leabharlann. Briseann an
+dúchas ....'
+
+Ní raibh m'athair riamh sa leabharlann; ach phéinteáil sé an
+taobh amuigh di; agus tchíodh sé na léitheoirí isteach fríd
+na fuinneoga, am an phéinteála sin, agus ina dhiaidh. Duine
+bómánta athair mór an Rúballaigh chomh maith de réir
+thuairim m'athara, ach níl amhras orm ná gur mheath a
+bharúil air i gcás an fhir shoineanta seo.
+
+'Leag sí gaiste dó,' arsa m'athair. 'Mheall sí breac uaidh
+lá agus é ar a bhealach chun an bhaile ón loch. Ba ghearr i
+ndiaidh ithe an bhric údaí, go raibh ceangal na gcúig gcaol
+ar an chréatúr. Ba bheag lá a chaith sé fán loch ina dhiaidh
+sin. Ach fear gan mórán míofaireachta ag roinnt leis a bhí
+ann - tréan gruaige cataí duibhe air. Mar phórmhadadh a
+roghnaigh sí é, b'fhéidir. Bean an-chliste í féin, má tá sí
+ar mire féin. Coimheád thú féin uirthi! Coimheád thú féin, a
+deirim.'
+
+I dtaca le bheith ag cur síos ar chuma duine, ba rud mór
+é i gcaint m'athara an admháil 'gan mórán míofaireachta' a
+bheith ag roinnt leis nó léi. Bhain mé as a chuid cainte
+faoi thuismitheoirí an Rúballaigh, gur mheas sé go raibh a
+fhios ag an mháthair mhór go dtiocfadh léi an nasc póraithe
+idir í féin agus a fear a rialú sa dóigh go mbainfí ábhar
+dóighiúlachta agus láidreachta uaidh féin agus an ábhar
+bómántachta a fhágáil i leataobh, rud a d'fhágfadh gurbh
+fhéidir an chuid sin den bhuidéal a líonadh le clisteacht
+s'aici féin. Bheadh sé seo ag cur lena bharúil d'athair an
+Rúballaigh, fear láidir gan mhíofaireacht a bhí cliste go
+leor ach leath ar mire agus róthugtha do na madaí.
+
+'Ní raibh dúil rómhór aici féin sna madaí,' arsa m'athair,
+'ach thug sí cead dó madadh amháin a choinneáil fán teach
+s'acu i Sraith na bPréachán, áit a raibh madadh amháin, ar a
+laghad, ag gach teach. Madadh deas modhúil a cheadaigh sí
+ach é ina bhrocaire chomh maith a mhuirfeadh luchóg mhór
+thall is abhus, rud a raibh gá leis fá Shraith na bPréachán.
+Agus rinne sí éacht nach raibh dréim leis i gcúl fuinneoige
+ar bith: fuair sí post dó - fear nár chaill allas riamh
+roimhe sin i gceann gléis ní ba throime ná slat
+iascaireachta.'
+
+Ba mhéanar dó mar a d'éirigh dó i ngnoithe poist, mar cad é
+an jab a fuair sí faoina choinne ach an ceann a bhí ag a
+athair féin roimhe, post mar fhear tarae. Nach dtiocfadh
+corriasc anuas san tarae, agus nach amhlaidh nach raibh cosc
+ar dhuine a mhadadh a bheith leis mar chuideachta gach lá
+oibre dá dtiocfadh lena bheo? Thig liom a shamhlú é a bheith
+ina sháimhín suilt ansin de chois tarae, é féin agus a
+bhrocaire, agus é i gceann a chuid cúraimí go suaimhneach.
+Ní fios cé acu a bhí lámh ag fear na leath-láimhe san
+cheapadh nó nach raibh, ach léiríodh arís clisteacht agus
+cumhacht bhean na maolchnoc, mar ba phost é a shantódh cuid
+mhór fear suaimhneach.
+
+Bhíothas ag rá faoi theallaigh áirithe, mar a dúradh cheana
+,go raibh easnamh intleachta agus beagán céille ag cur as
+d'athair mhór an Rúballaigh; ach ní hí sin an aithne a bhí
+agamsa air. Nuair a druideadh an muileann cuireadh deireadh
+lena chuid ama de chois tarae, mar a cuireadh deireadh le
+laethanta oibre na mban is an bheagáin fear a d'oibir ar an
+taobh istigh den roth mhór. Ba le linn laethanta nach raibh
+mé féin ar an tsaol ar chor ar bith a tharla an druidim sin
+agus lena chois sin, ba in aois a phinsin a bhí an
+iar-fhear tarae,  nuair a chéadchuir mé féin aithne air.
+
+An brocaire cróga, ardchluasach, dubh údaí a shuíodh ina
+fhochair ar bhruach an tarae, ba fhada imithe ar shlí na
+bhfíréan madadh é faoin chéad aithne sin fosta, ach bhí cara
+brocaire eile aige, ar mó ár meas air; an Buíghiolla a
+baisteadh mar ainm air de bharr a dhatha.  Bhí cairde eile
+nár dhaoine aige fosta: cág ceansaithe a raibh seort cainte
+aige, lasair choilleadh a raibh scoith an cheoil aici, agus
+easóg leath-cheansaithe a bhíodh ag cuidiú leis greim a
+fháil ar chorrchoinín mar bhéile tae an tráthnóna.  Is fríd
+an dream seo beathach a fuair mise ciall don mhéid a bhí ar
+eolas aige, agus do na healaíona a chleachtadh sé. An té
+nach bhfuil mórán muiníne aige as caint daoine, is minic a
+ghníthear seort amadáin nó bómáin as, in imirt na cainte sin
+as béil nár ghá oibreacha maithe tuigbheála a bheith taobh
+thiar díofa agus á soláthar le torthaí machnaimh agus
+teachtaireachtaí arbh fhiú cluas a thabhairt leo. Obair mar
+sin a thuill ainm amadáin ar an fhear seo ba athair mór don
+Rúballach.
+
+Rud intuigthe óna bhfuil ráite agam, nár chleachtas de chuid
+fhear an tarae, mórán cainte a chur as i measc daoine.
+Bhíothas ag cur i leith a mhná gur bhain sise an chaint
+uilig as agus a cur san chág s'aige, gur shocraigh sí
+scanradh ceóidh dó a d'fhág cineál balbh é, rud a
+d'fhóirfeadh go breá di féin. Is iomaí béadán a ghníodh air;
+is iomaí míniú ar baineadh feidhm as lena chuid dóigheanna
+ciúine a úsáid ina choinne.  Mioscais, drochrún, agus magadh
+a bhí taobh thiar den obair seo ar fad tchíthear domh. Agus
+níor ghá a mheabhrú gurb é an t-éad a ba bhun le cuid di
+chomh maith i measc an dreama ar a chomhaois féin ach go
+háirithe.
+
+Bhí sé ina fhear aosta le linn na laethanta ar fad a aithne
+agamsa air; ach ní hé sin an chuma a bhí air. An ghruaig
+dhubh a bhí air nuair fuair a bhean greim air, níor thréig
+sí a bhlaosc go hiomlán riamh. Níor tharla ach stríocaí bána
+a theacht inti thall is abhus. Is amhlaidh a chuireadh a
+cheann i gcuimhne duit lá te samhraidh asal de bhunadh na
+hAfraice agus é ag innigilt go suaimhneach ar mhachaire
+leathan in aice na dufaire. Ní tháinig cam ina dhroim nó
+cromadh ina chuid guailneacha. Níor imigh an urrúntacht ar
+fad. Dá mbeadh clár adhmaid roimh an aghaidh roicneach agat
+agus hata nua-aimseartha in airde ar a bhaithis, ba dhóigh
+leat gur diúlach nár imigh as na daichidí a bheadh os do
+chomhair. Agus sin rud eile a chuirtí síos d'imirt a mhná:
+ní furast an béadán a sheachnadh. Ar ndóighe, ní raibh bail
+a choirp mar a bhí saor ar fad ó chuid imeachtaí a mhná:
+níor nós léi riamh a fear a mhilleadh le barraíocht bídh nó
+tobac; agus ní ligfeadh sí dó barraíocht ama a chaitheamh
+faoin teach faoi aimsir ar bith. Ach seo ní ar a chuma a ba
+mhian liom aird mhór a dhíriú ach ar a chumas, chumas nár
+bheag tionchar ar an Rúballach féin ná ar imeachtaí
+Chuallacht Bhricreann ar a seal.
+
+Maidir le caint agus focail, mura raibh lón millteanach aige
+díofa sin, níor fhág an t-easnamh sin gan dóigheanna
+teachtaireachta é.  Ba bhreá an fear é le cumaí a chur air féin
+chugat, agus le himeacht na haimsire, thiocfá isteach ar an
+obair sin agus ar chuid d'oibreacha a chinn; ba mhaith an
+cuidiú na meangaí gáire uilig a bhí aige, mar aol le
+sméideadh cinn agus caochadh súl. Ina dhiaidh sin, bhí na
+méara ann: méara gasta, aclaí, lán lúith: dá bhfeicfeá iad i
+gceann líonadh an phíopa, déarfá gur fiche acu a bhí ar
+obair, ar a laghad. Ba mhaith iad i gceann marla fosta. Bhí
+dúil mhór aige sa mharla, mar athair mór an Rúballaigh. Ba
+ghnách leis an Rúballach marla a fháil dó ón scoil, de bharr
+nach raibh an dúil chéanna aige i marla siopa. Ba bhreá leis
+moll úr marla a fheiceáil ag teacht aníos as póca a gharmhic
+agus níor leasc leis a lúcháir a chur in iúl: dhéanfadh sé
+seó beag marla dúinn ar an bhosca oráistí a bhí mar thábla
+aige. Cé déarfadh nach seort cainte é sin chomh maith?
+
+Dála an scéil, chan iad na hainmhithe amháin a dtiocfadh
+leis aithris a dhéanamh ar a gcruth agus ar a gcroí, agus
+chan as marla amháin a thigeadh neach úrchumtha ar an tsaol
+de bharr ealaín a chuid méar líofa. Ba é a dhéanfadh fear
+deas preáta dhuit, nach mbeadh moill ort a leagan faoi rún
+le coineascar ar bhabhstar an chailín ba mhó scéimh agus
+croí sa bhaile.
+
+Na hainmhithe a ghníodh sé den mharla, ba mhór a chiall
+dóibh féin féin, agus ba dhomhain a bháidh agus a dháimh
+leo. Lena chois sin, mar a bheifí ag dréim leis, ba bhreá a
+chumas teachtaireachtaí chur chucu agus faisnéis a fháil
+uatha dó féin agus dá bhean. Bhí seo amhlaidh, an t-am nach
+mbeadh sé féin agus an neach nach neach daonna, ar aon fhód
+lena chéile nó, go fiú, ar fhóide a mbeadh achar breá
+eatarthu agus réada saolta ina luí nó ina seasamh san achar
+údaí sa dóigh nach dtiocfadh leis an tsúil ar fhód amháin
+acu té an fhóid eile a aimsiú, gídh go mbeadh greim éigin
+intinne ag an dá neach ar a chéile.
+
+B'fhíre seo faoi ghiota mhaith i gcás na madadh is a
+chaidreamh leo. Bhí teanga dheas ramhar aige nár láidríodh
+le hobair na gnáthchainte ach le leathadh, lúbarnaíl, agus
+smailceadh seiftiúil, ar iomaí fear nó bean ar bheag a
+gciall dá leithéidí. Maidir leis an bhaint a bhí ag an
+bhearád leis na cúrsaí seo, char oibir mé amach, cé acu ar
+phisreog a bhí ann, nó gnás faoi leith mar a tchíthear ar
+siúl ag breitheamh an bháis, nó ar bhain feidhm éigin nach
+furast a aithint lena chur ar a cheann, ach ar a cheann a
+rachadh sé, de phlab, ar scor ar bith, sula dtéadh sé i
+gceann birt san cheird seo teachtaireachta s'aige. Feadanna
+ba mhó a n-úsáidtí sna hócáidí a raibh feidhm leo agus mise
+ina láthair; ach ní raibh sé ina muinín; is iomaí trup tuaim
+agus rúntormán ann, a raibh sé ina mháistir ar a scaoileadh,
+ar a ligean nó ar a shéideadh uaidh; agus chan amháin sin ach
+d'fhéadfadh sé ach fonn a bheith air, foinse na fuaime, is é
+sin láthair éigin ina phearsa féin, d'fhéadfadh sé an
+fhoinse sin a chur i bhfolach ort, rud a bhéarfadh ort a
+bheith ag amharc uait go fiosrach i dtreonna éagsúla, agus
+amharc gan toradh gach amharc dá gcuirfeá uait.
+
+I gcúl na dtithe a raibh fear seo na bhfeadanna agus na
+bhfuaimeanna eile ina chónaí, bhí balla fada sásta a chaith
+sraith leac láidir stroighne mar bhearád leanúnach. Balla
+sásta gan amhras a bhí ann mar bhac roimh an tsionnach a
+mbeadh suim aige i do chuid cearc, nó roimh an chomharsa ar
+fonn leis barraíocht aithne agus eolas a chur ort féin agus
+do chuid dóigheanna ar mhaithe le siamsaíocht, nó le
+feallobair; ach níor fhágtaí bearád seo na leac lom le linn
+tréimhse fada ama riamh.
+
+B'ardán é ar a bhfeictí cuid mhór nach bhfeictí ar an bhosca
+oráistí féin. I measc na n-aisteoirí, a thugadh a seal ar an
+ardán údaí, bhí na gealbhain tí agus préacháin ródhubha
+Phlandáil an Dochtúra, druideanna agus colúir de chuid
+Stáisiún na dTraenach, cait de dhathanna agus de nádúir
+éagsúla, dream a bhfeicfeá a ndrochrúin á nochtadh i leith
+dreama caite na gcleití anois is arís, seilidí
+uaillmhianacha nach mairfeadh i bhfad bródúil as a gcuid
+tithe, agus gasúir óga na dtithe máguaird agus iad cruinn i
+ndáil chomhairle, cuid acu ar a dtóin agus cuid ar a
+ngogaidí, a gcuid cneácha idir oscailte chneasaithe,
+agus leath-chneasaithe, le sonrú go soiléir ar an chuid dá
+gcraicinn a bhíodh ris, go háirithe faoi cheantar na nglún
+is na lorgaí.  Ba dhuine mé féin den dream deireanach seo lá
+de mo laetha.
+
+Níl dream faoi leith den mhórdream údaí a thaithíodh na
+leaca nach bhfaca mise na himeachtaí teagmhála a nochtadh
+idir iad féin agus athair mór an Rúballaigh. Na feidhmeanna
+leis an teagmháil, ab eadh? Seo cuid acu: damhsa na
+bpréachán is na snag breac a choimheád; ceolchoirm na
+spideog agus aonréad loin dhuibh a léiriú; teachtaireacht
+páipéir á bhaint de chos colúir; cat marfach a ruaigeadh go
+ciúin óna chreach; cat máthara agus a cuid puisíní
+ildathacha a sheol suas agus anuas na leaca ina mórshiúl
+galánta; agus rudaí milse, is mirlíní lonracha a bhaint de
+ghasúraí, mar aon le gáirí a bhaint astu - gheibhtí faisnéis
+astu minic go leor fosta, faisnéis dá bhean, ach ní raibh
+ach baint neamhdhíreach ag ealaín an athara mhóir leis an
+chóras bailithe sin: thigeadh na gasúraí ar scor ar bith a
+bhaint suilt as ceol na lasrach coilleadh, lá buí samhraidh
+nó a dhéanamh comhrá leis an chág chainte, lá ar bith sa
+bhliain. Na himeachtaí a luaigh mé ansin thuas, níl iontu
+ach mionchuid dá mbeadh de dhíobháil le léiriú iomlán a
+sholáthar ar gníomhaíocht iomlán athair mhór an Rúballaigh.
+
+Is gá, áfach, a chur in iúl, gurb fhear uaigneach é athair
+mór an Rúballaigh, ach ab é an caidreamh a bhí aige lena
+bhean, lena mhadadh, lena gharmhac, agus leis na créatúir ar
+thagair mé daofa thuas. Is gá mar a gcéanna míniú éigin a
+chur ar fáil ar ar fhág sa dóigh seo é. De chois linne
+leithne ar an abhainn a tógadh é, i sraith tithe a tógadh
+don dream a d'oibríodh tráth den tsaol i muileann
+scuitseála. Bhíodh cuideachta daonna fairsing go leor lá den
+tsaol faoi bhruach na linne seo, de bharr a mbíodh de mhná,
+d'fhir, de ghasúraí, de ghirseacha, de chailíní, de
+stócaigh, is de thachráin, mar lucht cónaithe thithe na
+sraithe, mar a dúradh.
+
+Sean-nath atá ann 'D'imigh sin agus tháinig seo.' Is
+amhlaidh a bhí i gcás na sraithe tithe údaí. D'imigh den
+ráchairt ar éadach de dhéantús aibhneacha agus sclábhaithe
+na tíre seo, as siocair a mhalairt de éadach a bheith ag
+teacht ar fáil as tíortha eile mar thoradh ar a ngaotha móra
+a gcuibhrinn mhóra agus ar an sclábhaíocht a bhíothas a
+bhaint as gormáin láidre ab fhurast a fhuadach de chois na
+n-aibhneacha s'acu féin sna coillte teo, agus a sáthadh i
+mboilg loinge a bhéarfadh chuig cuibhrinn agus muilte ina
+dtiocfadh leo an t-ábhar plandúil agus allas a mallacha a
+chur i dteagmháil le chéile sa dóigh go ndéantaí an mhalairt
+seo d'éadach a sholáthar agus a sholáthar go saor, ó tharla
+nach raibh de dhíth ar na gormáin san obair ach bia garbh
+don ghoile agus griosáil mhaith droma don díograis thall is
+abhus. Níorbh fhada gur imigh an dream a thóg an muileann
+scuitseála agus an tsraith tithe de chois linn fhionnuar
+athair an Rúballaigh, gur imigh a cheannacht cuibhreann
+daofa féin i dtír an éadaigh shaoir, agus gur imigh sa tóir
+ar ghormáin dá gcuid féin fá aibhneacha agus choillte na
+dtíortha teo. D'imigh mar thoradh de chuid na n-imeachtaí
+údaí, d'imigh mórchuid de na himeachtaí daonna ba ghnách a
+bheith ar siúl faoi na tithe sa tsraith. D'imigh agus
+tháinig an tost mar chomharba orthu: fán am a bhí athair an
+Rúballaigh á thógáil, ba phearsa tosta gach comharsa dó sa
+tsraith.
+
+Chríochnaigh sé nár thaitin an dream seo go rómhaith le
+hathair athair mór an Rúballaigh.  Ba é athair bhean an fhir
+seo, sin-seanathair an Rúballaigh ar thaobh an athara, ba é
+a cheannaigh an teach ó mhac drabhlásach de chuid duine den
+dream a chuaigh a dhéanamh an éadaigh shaoir; agus is saor a
+cheannaigh sé uaidh é. Ba de bhunadh na maolchnoc
+sin-seanathair seo an Rúballaigh, fear mór urrúnta
+dea-chumtha, agus dalta mhuintir na maolchnoc ar fad bhí
+dúil sa chuideachta aige.  Dúradh go raibh cleasaíocht sa
+chleamhnas a rinneadh idir é féin agus bean shraith na
+linne, agus nach bhfuair sé an teach nó an suíomh nó an
+bhean a raibh sé ag súil leo. Bíodh seo fíor nó bréagach, ní
+tháinig de thoradh an chleamhnais agus an chaidrimh a lean é
+de chois na linne ach an t-aon mhac amháin, athair mór an
+Rúballaigh, mac nach labhair focal go raibh na trí bliana
+slánaithe aige. Baineadh mealladh as athair an tachráin
+chiúin seo; níor thaitin na comharsana leis ó tharla nár
+fhan siad le bheith ann lena linn fán áit, mar a dúradh;
+tháinig cumha air; d'imigh sé ar ais sna maolchnoic a chónaí
+arís lena mháthair, sula bhfuair sé mórán abairtí a
+chluinstin ón mhac a tháinig ar an tsaol de bharr cleamhnais
+chaim, dar leis féin.
+
+Níor mhaith an tionchar a bhí ag imeacht a fir ar mheanma a
+mhná.  Agus í óg agus dóighiúil - ina dóigh féin - go fóill,
+agus an tachrán ciúin faoina cúram, agus gan chuidiú
+comharsana ar fáil aici, níor mhaith a dóigh, agus thoisigh
+sí a stánadh tráthnóna sa linn go rómhinic.  Mar sin féin,
+níor lig sí a cuid trioblóidí isteach go huile agus go
+hiomlán uirthi féin.  Ba linn í linn fhód a dúchais a bhíodh
+ramhar le bric in amanna sa bhliain agus le heascanna amanna
+eile, rud a mhealladh slatiascairí agus póitseálaithe chuici
+i rith na dtréimhsí sin. Fríd am, d'éirigh sí mór le cuid
+acu seo, agus d'éirigh dóchas inti go n-éireodh léi lá éigin
+breith ar bhreac acu mar seort céile di féin agus mar seort
+leasathair dá mac.  Mhair an bhreac-chuideachta agus an
+dóchas dá réir ar feadh fada go leor. Ba mhór ag fir na slat
+lúbach a ciall don abhainn agus don dream a mhair inti,
+thigeadh corrdhuine acu ar cuairt chuici féin agus chuig a
+mac, agus thigeadh a leithéid sin corruair as séasúr féin.
+
+Ní thugann rud ar bith ach seal. Tig deireadh le séasúr, le
+seal deas cuideachta chois linne nó tineadh, agus fá shuímh
+eile, agus tig deireadh le brí na hóige agus le dóighiúlacht
+dá fheabhas agus dá neamhchoitiantacht. Ar a sheal ansin,
+tig deireadh leis an dóchas féin. Baintear deireadh dúile de
+theacht ar chéile a shásódh gach dúil, a shásódh cuid acu, a
+shásódh beagán díofa, a thógfadh cian duit tráthnóna
+geimhridh, go dtí sa deireadh go mbaintear deireadh dúile de
+gach ábhar dóchais. Ach níor tharla an bhaint deiridh dúile
+seo tigh mháthair athair mór an Rúballaigh gur éirigh sé
+féin ina shlataire theann urrúnta dea-chumtha dalta an
+athara a thréig é; agus ag fás aníos dó, is é a fuair scoith
+na hoiliúna agus na tuisceana ar an dúlradh ciúin ina
+thimpeall.
+marc:23-06-2019
 
 
