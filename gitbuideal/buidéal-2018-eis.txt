@@ -1,7 +1,7 @@
 Doc 1.
 16:42 15/10/2017
 
-Caibidil 1
+Buidéal 1
 
 Súil le Breitheamh thar uisce
 
@@ -10,11 +10,11 @@ P1.
 Fuarthas cead sa deireadh an cuntas seo a scríobh a fhad is
 atáthar ag fanacht le bád an dara breitheamh.  Níl ar an
 oileán seo ach an dá dhream: cimí agus coimheádaithe.  Is
-cuairteoir an dara breitheamh, an tráth a dtiocfaidh sé a
+cuairteoir an breitheamh, an tráth a dtiocfaidh sé a
 shocrú chinniúint chime 16. Agus tiocfaidh sé go cinnte á
 dhéanamh sin an t-ádh a bheith leis. 
 
-Má bhíonn an t—ádh leis an dara breitheamh seo, tiocfaidh sé
+Má bhíonn an t—ádh leis an breitheamh seo, tiocfaidh sé
 i dtír ar an taobh theas den 'oileán, san áit a n—osclaíonn
 an abhainn a bhéal a dh'ol móruiscí an locha. Tchífidh sé
 ansin os a chomhair, mar chúirtíní siopa, bogluachair na
@@ -107,7 +107,12 @@ Ach seo, tá mé ag teacht chun tosaigh orm féin. Níor chuidiú
 domh truisleadh a bhaint asam féin chomh luath seo sa scéal
 seo atá mar bheart ann nach ndéanfaí mo dhaoradh agus mo
 bhású. Is mithid domh pilleadh ar an oileán.
+----
+# Thig cuid mhaith de seo a chur isteach san leagan úr
+# buntáiste - cur síos úsáideach
+# mar a fuair sé eolas ar bhás an bhreithimh
 
+-----
 Trí Rud. 
 Tá trí rud arda ar an oileán locha seo. Chuirfí i
 in iúl uaim as an chaint sin, trí rud a mbeadh tionchar ar
